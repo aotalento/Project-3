@@ -16,6 +16,4 @@ Geo Information:
 Google API
 
 Visualization Inspiration:
- 
-
-
+https://cdn.jetitup.com/img/gallery/Infographic_RouteMap.png
